@@ -18,3 +18,5 @@ Adicionado request para recuperar a senha
 Adicionado Modelo 
 
 Modificado a cor do botao para roxo
+
+Deletar conta
