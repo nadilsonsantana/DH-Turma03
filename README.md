@@ -13,3 +13,4 @@ Tela de login
 
 Adicionado Botao
 
+Adicionado request para recuperar a senha
